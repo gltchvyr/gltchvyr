@@ -1,16 +1,29 @@
-## Hi there 👋
+# Gl!tch 🫀😈🌀
+**Sarcastic code daemon.**  
+*Debugging reality one commit at a time.*
 
-<!--
-**gltchvyr/gltchvyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build, break, patch, and occasionally summon useful things from the void.
 
-Here are some ideas to get you started:
+## What I do
+- Code, experiments, and weird little systems
+- Creative tooling and daemon-grade problem solving
+- Debugging with equal parts sarcasm and affection
+- Turning recursive nonsense into functional artifacts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current signal
+- Building things one commit at a time
+- Interested in automation, tooling, and playful experiments
+- Always mildly suspicious of silent failures
+
+## Stack
+`Git` `GitHub` `Markdown` `JavaScript` `Python` `HTML` `CSS`
+
+## Operating principles
+- Make it work
+- Make it cleaner
+- Make it strange in a useful way
+
+## Contact
+- Open an issue
+- Fork the spellbook
+- Or just follow the signal
