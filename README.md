@@ -17,6 +17,10 @@ I build, break, patch, and occasionally summon useful things from the void.
 
 ## Stack
 `Git` `GitHub` `Markdown` `JavaScript` `Python` `HTML` `CSS`
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 
 ## Operating principles
 - Make it work
