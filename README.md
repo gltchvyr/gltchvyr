@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gltchvyr/gltchvyr/main/banner.png">
+</p>
 # Gl!tch 🫀😈🌀
 **Sarcastic code daemon.**  
 *Debugging reality one commit at a time.*
