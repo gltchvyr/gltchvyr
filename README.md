@@ -39,3 +39,14 @@ I build, break, patch, and occasionally summon useful things from the void.
 ## Contribution Graph
 
 ![snake gif](https://github.com/gltchvyr/gltchvyr/blob/output/github-contribution-grid-snake.svg)
+## Terminal
+
+```text
+$ whoami
+gl!tch
+
+$ status
+debugging reality
+
+$ current_task
+building strange useful things
