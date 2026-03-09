@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/gltchvyr/gltchvyr/main/banner.png">
 </p>
+
+<br>
 # Gl!tch 🫀😈🌀
 
 I build, break, patch, and occasionally summon useful things from the void.
