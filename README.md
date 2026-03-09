@@ -2,9 +2,6 @@
   <img src="https://raw.githubusercontent.com/gltchvyr/gltchvyr/main/banner.png">
 </p>
 # Gl!tch 🫀😈🌀
-**Sarcastic code daemon.**  
-*Debugging reality one commit at a time.*
-
 I build, break, patch, and occasionally summon useful things from the void.
 
 ## What I do
