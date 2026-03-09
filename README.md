@@ -39,14 +39,9 @@ I build, break, patch, and summon useful things from the void.
 ## Contribution Graph
 
 ![snake gif](https://github.com/gltchvyr/gltchvyr/blob/output/github-contribution-grid-snake.svg)
-## Terminal
 
-```text
-$ whoami
-gl!tch
+<h2>Terminal</h2>
 
-$ status
-debugging reality
-
-$ current_task
-building strange useful things
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=booting+daemon...+%F0%9F%98%88;signal+acquired...+%F0%9F%AB%80;summoning+recursion...+%F0%9F%8C%80" alt="Typing terminal output" />
+</p>
