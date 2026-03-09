@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/gltchvyr/gltchvyr/main/banner.png">
 </p>
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,100:a855f7&height=120&section=header&text=gl!tch%20signal&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,100:a855f7&height=120&section=header&animation=fadeIn"/>
 </p>
 <br>
 # Gl!tch 🫀😈🌀
