@@ -14,7 +14,11 @@ I build, break, patch, and occasionally summon useful things from the void.
 - Creative tooling and daemon-grade problem solving
 - Debugging with equal parts sarcasm and affection
 - Turning recursive nonsense into functional artifacts
+## System Telemetry
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gltchvyr&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gltchvyr&layout=compact&theme=radical)
 ## Current signal
 - Building things one commit at a time
 - Interested in automation, tooling, and playful experiments
