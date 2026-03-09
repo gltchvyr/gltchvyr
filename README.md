@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gltchvyr/gltchvyr/main/banner.png">
+  <img src="https://raw.githubusercontent.com/gltchvyr/gltchvyr/main/banner.png" alt="Gl!tch banner">
 </p>
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,100:a855f7&height=90&section=header&animation=fadeIn"/>
@@ -7,7 +7,7 @@
 <br>
 # Gl!tch 🫀😈🌀
 
-I build, break, patch, and occasionally summon useful things from the void.
+I build, break, patch, and summon useful things from the void.
 
 ## What I do
 - Code, experiments, and weird little systems
